@@ -1,6 +1,7 @@
 # Data Science and Artificial Intelligence Note
 ### Python
 * [Basic](Python/Basic/README.md)
+* [Data Wrangling](Python/Data-Wrangling/README.md)
 
 ### Machine Learning
 * [Basic](Machine-Learning/Basic/README.md)
