@@ -3,6 +3,7 @@
 * [Basic](Python/Basic/README.md)
 
 ### Machine Learning
+* [Basic](Machine-Learning/Basic/README.md)
 
 ### Deep Learning
 
