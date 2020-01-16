@@ -1,1 +1,1 @@
-# Data-Science-and-Artificial-Intelligence-Note
+# Data Science and Artificial Intelligence Note
