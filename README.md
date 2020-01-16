@@ -4,6 +4,7 @@
 
 ### Machine Learning
 * [Basic](Machine-Learning/Basic/README.md)
+* [Vectors, Matrices, And Arrays](Machine-Learning/Vectors-Matrices-And-Arrays/README.md)
 
 ### Deep Learning
 
