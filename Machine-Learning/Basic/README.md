@@ -4,3 +4,7 @@
 * [Loading scikit-learn's Digits Dataset](code/Loading-scikit-learn-s-Digits-Dataset.py)
 * [Loading scikit-learn's Iris Dataset](code/Loading-scikit-learn-s-Iris-Dataset.py)
 * [Make Simulated Data For Classification](code/Make-Simulated-Data-For-Classification.py)
+* [Make Simulated Data For Clustering](code/Make-Simulated-Data-For-Clustering.py)
+* [Make Simulated Data For Regression](code/Make-Simulated-Data-For-Regression.py)
+* [Perceptron In Scikit](code/Perceptron-In-Scikit.py)
+* [Saving Machine Learning Models](code/Saving-Machine-Learning-Models.py)
