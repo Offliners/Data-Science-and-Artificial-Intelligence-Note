@@ -4,3 +4,8 @@
 * [Reshape An Array](code/Reshape-An-Array.py)
 * [Invert A Matrix](code/Invert-A-Matrix.py)
 * [Getting The Diagonal Of A Matrix](code/Getting-The-Diagonal-Of-A-Matrix.py)
+* [Flatten A Matrix](code/Flatten-A-Matrix.py)
+* [Find The Rank Of A Matrix](code/Find-The-Rank-Of-A-Matrix.py)
+* [Find The Maximum And Minimum](code/Find-The-Maximum-And-Minimum.py)
+* [Describe An Array](code/Describe-An-Array.py)
+* [Create A Vector](code/Create-A-Vector.py)
