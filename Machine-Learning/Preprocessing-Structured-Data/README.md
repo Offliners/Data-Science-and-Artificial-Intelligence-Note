@@ -1,11 +1,11 @@
 # Preprocessing Structured Data
-* [Convert Pandas Categorical Data For Scikit-Learn]
-* [Delete Observations With Missing Values]
-* [Deleting Missing Values]
-* [Detecting Outliers]
-* [Discretize Features]
-* [Encoding Ordinal Categorical Features]
-* [Handling Imbalanced Classes With Downsampling]
-* [Handling Imbalanced Classes With Upsampling]
-* [Handling Outliers]
-* [Impute Missing Values With Means]
+* [Convert Pandas Categorical Data For Scikit-Learn](code/Convert-Pandas-Categorical-Data-For-Scikit-Learn.py)
+* [Delete Observations With Missing Values](code/Delete-Observations-With-Missing-Values.py)
+* [Deleting Missing Values](code/Deleting-Missing-Values.py)
+* [Detecting Outliers](code/Detecting-Outliers.py)
+* [Discretize Features](code/Discretize-Features.py)
+* [Encoding Ordinal Categorical Features](code/Encoding-Ordinal-Categorical-Features.py)
+* [Handling Imbalanced Classes With Downsampling](code/Handling-Imbalanced-Classes-With-Downsampling.py)
+* [Handling Imbalanced Classes With Upsampling](code/Handling-Imbalanced-Classes-With-Upsampling.py)
+* [Handling Outliers](code/Handling-Outliers.py)
+* [Impute Missing Values With Means](code/Impute-Missing-Values-With-Means.py)
