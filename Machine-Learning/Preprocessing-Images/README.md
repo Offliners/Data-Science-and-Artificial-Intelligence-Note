@@ -2,15 +2,15 @@
 * [Binarize Images](code/Binarize-Images.py)
 * [Blurring Images](code/Blurring-Images.py)
 * [Cropping Images](code/Cropping-Images.py)
-* [Detect Edges](code/)
-* [Enhance Contrast Of Color Image]
-* [Enhance Contrast Of Greyscale Image]
-* [Harris Corner Detector]
-* [Installing OpenCV]
-* [Isolate Colors]
-* [Load Images]
-* [Remove Backgrounds]
-* [Save Images]
-* [Sharpen Images]
-* [Shi-Tomasi Corner Detector]
-* [Using Mean Color As A Feature]
+* [Detect Edges](code/Detect-Edges.py)
+* [Enhance Contrast Of Color Image](code/Enhance-Contrast-Of-Color-Image.py)
+* [Enhance Contrast Of Greyscale Image](code/Enhance-Contrast-Of-Greyscale-Image.py)
+* [Harris Corner Detector](code/Harris-Corner-Detector.py)
+* [Installing OpenCV](code/Installing-OpenCV.py)
+* [Isolate Colors](code/Isolate-Colors.py)
+* [Load Images](code/Load-Images.py)
+* [Remove Backgrounds](code/Remove-Backgrounds.py)
+* [Save Images](code/Save-Images.py)
+* [Sharpen Images](code/Sharpen-Images.py)
+* [Shi-Tomasi Corner Detector](code/Shi-Tomasi-Corner-Detector.py)
+* [Using Mean Color As A Feature](code/Using-Mean-Color-As-A-Feature.py)
